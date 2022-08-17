@@ -1,6 +1,6 @@
 # Packet_sniffer
-● scapy has a sniffer function.
-● Can capture data sent to/from iface.
+● scapy has a sniffer function. '
+● Can capture data sent to/from iface. '
 ● Can call a function specified in prn on each packet.
 
 # Description
