@@ -4,7 +4,7 @@
 ● Can call a function specified in prn on each packet.<br>
 
 # Description
-A packet sniffer — also known as a packet analyzer, protocol analyzer or network analyzer — is a piece of hardware or software used to monitor network traffic. Sniffers work by examining streams of data packets that flow between computers on a network as well as between networked computers and the larger Internet.
+A packet sniffer — It is a protocol analyzer or network analyzer, is a piece code used to monitor network traffic. It works by examining streams of data packets that flow between computers on a network as well as between networked computers and the larger Internet.
 
 # Command
 python run packet_sniffer.py
